@@ -1,2 +1,2 @@
-# projectJs
+# clock
 clock project
